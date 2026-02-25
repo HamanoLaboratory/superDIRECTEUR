@@ -6,8 +6,6 @@ SuperDIRECTEUR can predict combinations of small molecules taking into account d
 
 # You can run the proposed method with the following procedures:
 
-# Combinatorial optimization of pathway regulations
-
 Run : src/main.py
 
 Output : results/{result}
