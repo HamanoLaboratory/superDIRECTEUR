@@ -1,5 +1,1 @@
-<Proposed method>
-SuperDIRECTEUR
-
-<Introduction> 
 SuperDIRECTEUR can predict combinations of small molecules taking into account dynamic molecular mechanistic changes during direct programming induction. To account for dynamic molecular mechanistic changes, cell conversion process is divided into several stages (ex, Primal stage, Immature stage, Mature stage). Combinations of small molecules that induce cell conversion between adjacent stages are then predicted.
