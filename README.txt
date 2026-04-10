@@ -31,6 +31,4 @@ Transcriptome data: Data on expression ratios in each gene before and after Dire
 
 sub objective functions can be changed for your analysis.
 
-## License
-This project is licensed under the CC BY-NC-ND 4.0 License.
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+
